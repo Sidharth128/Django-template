@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+
+# Django static files
+staticfiles/
+media/
+
+# IDE/project settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Database
+# No need to ignore SQLite because you're using Postgres
+# *.sqlite3
